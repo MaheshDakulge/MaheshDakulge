@@ -74,7 +74,7 @@ Real-time child safety & browsing protection system — Flutter Web dashboard, F
 
 `Flutter Web` `FastAPI` `Supabase` `Chrome Extension`
 
-[Live Web App →](https://maheshdakulge.github.io/safeguard_ai_live/) &nbsp;·&nbsp; [Download Extension →](https://maheshdakulge.github.io/safeguard_ai_live/safeguard_extension.zip)
+[Live Web App →](https://maheshdakulge.github.io/safeguard_ai_live/) &nbsp;·&nbsp; [Repository →](https://github.com/MaheshDakulge/safeguard_ai_live) &nbsp;·&nbsp; [Download Extension →](https://maheshdakulge.github.io/safeguard_ai_live/safeguard_extension.zip) &nbsp;·&nbsp; [API Docs →](https://safeguard-api.onrender.com/docs)
 
 </td>
 <td width="50%" valign="top">
