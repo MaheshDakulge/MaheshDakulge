@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MaheshDakulge/safeguard_ai_live/main/assets/ai_3d_header_clean.jpg" width="100%" alt="Mahesh Dakulge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4c1d95&height=200&section=header&text=Mahesh%20Dakulge&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
-# Mahesh Dakulge
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+Intern+%40+Aditya+Birla+Group;National+Hackathon+Winner+%E2%80%94+NagarDocs;Building+DataSphere+AI+(Final+Year+Project);Open+to+Data+Science+Roles" alt="Typing SVG"/>
 
-**Data Scientist · AI/ML Engineer · Full-Stack Developer**
+</div>
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/-maheshm.dakulge%40gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:maheshm.dakulge@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-mahesh--dakulge-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-dakulge)
@@ -79,8 +81,6 @@ Real-time child safety & browsing protection system — Flutter Web dashboard, F
 
 **🏭 Copper Refinery Analytics** — *Aditya Birla Group*
 
-<img src="https://raw.githubusercontent.com/MaheshDakulge/safeguard_ai_live/main/assets/mlops_automation_card.jpg" width="100%" alt="MLOps pipeline"/>
-
 Industrial sensor ML model and automated MLOps pipeline (Airflow, MLflow, MinIO, Docker, Streamlit) built during the UAIL internship.
 
 `Python` `Airflow` `MLflow` `Docker` `Streamlit`
@@ -111,6 +111,12 @@ Industrial sensor ML model and automated MLOps pipeline (Airflow, MLflow, MinIO,
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaheshDakulge&show_icons=true&hide_border=true&theme=default"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDakulge&layout=compact&hide_border=true&theme=default"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaheshDakulge/MaheshDakulge/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <br/>
