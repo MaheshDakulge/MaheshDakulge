@@ -1,56 +1,24 @@
-### Howdy!
+  <!-- 3D AI & Data Science Background -->
+  ![3D AI & Data Science Banner](ai_3d_header_clean_1788984283248.jpg)
 
-I'm a Data Scientist and full-stack AI builder based in Nanded, Maharashtra — currently a 4th-year B.Tech IT student at [IICT MGM](https://www.jnec.ac.in/). I did a Data Science internship at **UAIL, a unit of Hindalco Industries (Aditya Birla Group)**, working on real copper refinery process data — feature engineering and predictive models to reduce impurity levels for copper cathode purity. I also teach Theory of Computation to 3rd-year CSE students at my college.
+  <br/>
 
-I won a **National Hackathon** with [NagarDocs](#), an AI document-processing platform now adopted by municipal corporations across Maharashtra, and built [KisanAlert](#), a crop-price forecasting ensemble rated 9.2/10 at Google Solution Challenge 2026. My final year project, [DataSphere AI](#), is a project-intelligence platform that builds a knowledge graph across GitHub, Jira, MLflow and Airflow with a GraphRAG-powered copilot.
+  <!-- Dynamic Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,25,38,50&height=160&section=header&text=MAHESH%20DAKULGE&fontSize=42&fontAlignY=35&animation=twinkling&desc=%F0%9F%A7%A0%20Data%20Scientist%20%7C%20Full-Stack%20AI%20Builder%20%7C%20MLOps&descAlignY=65&descScale=15" width="100%" />
 
-I'm currently looking for **Data Science roles and internships**. Reach me at [maheshm.dakulge@gmail.com](mailto:maheshm.dakulge@gmail.com) or [LinkedIn](https://linkedin.com/in/mahesh-dakulge). My [resume](./resume.pdf) has the full picture.
+  <br/>
 
-<br/>
+  <!-- Responsive Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=System.Status%3A+%22Training+SOTA+AI+%26+MLOps+Pipelines%22;Evaluation.Metric%3A+%22Google+Solution+Challenge+Rated+9.2%2F10%22;Model.Accuracy%3A+%22National+Hackathon+Winner+%F0%9F%8F%86+NagarDocs%22;Production.Deploy%3A+%22Industrial+Impurity+ML+%40+Aditya+Birla+Group%22" alt="Typing Matrix" />
+  </a>
 
-### Data Science
+  <br/><br/>
 
-**Copper Refinery Impurity Prediction** — Data Science Intern, UAIL (Hindalco, Aditya Birla Group)
-EDA, feature engineering, and predictive ML on real industrial sensor data to reduce Arsenic, Antimony & Bismuth levels for copper cathode purity. Experiments tracked in MLflow, pipelines automated in Airflow.
-`Python` `Pandas` `Scikit-learn` `MLflow` `Airflow` `MinIO` `Docker`
+  <!-- Quick Social Badges -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshdakulge)
+  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshm.dakulge@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshDakulge)
+  [![Live Demos](https://img.shields.io/badge/Live_Projects-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](#-3d-featured-innovations--hackathons)
 
-**Industrial MLOps Learning Pipeline** — [repo](#)
-End-to-end ML lifecycle project built during the same internship: synthetic sensor data → MinIO storage → Airflow-orchestrated DAG → Scikit-learn classifier (accuracy/precision/recall/F1) → MLflow experiment tracking + model registry → Streamlit dashboard, fully Dockerized.
-`Airflow` `MLflow` `MinIO` `PostgreSQL` `Docker` `Streamlit`
-
-**KisanAlert v2.0** — [repo](#) · [demo](#)
-Crop price crash forecasting for Marathwada farmers using a 3-model ensemble (LSTM + XGBoost + rule engine) on weather, commodity and market data, with Marathi voice/WhatsApp alerts. Rated 9.2/10 at Google Solution Challenge 2026.
-`Flutter` `Firebase` `TFLite` `LSTM` `XGBoost`
-
-<br/>
-
-### Other projects
-
-**NagarDocs** — [repo](#) · [live demo](https://maheshdakulge.github.io/HACK-THE-GAP-PIXEL_PIRATE/#/home) (login: `user@it.com` / `Mahesh@123`)
-National Hackathon winner. AI-powered municipal document processing, verification and real-time tracking, adopted by municipal corporation authorities across Maharashtra.
-`Flutter` `FastAPI` `Gemini AI` `Firebase`
-
-**DataSphere AI** — [repo](#)
-Final year project — a unified AI project-intelligence platform building a knowledge graph across GitHub, Jira, MLflow and Airflow, with risk scoring, anomaly detection, and a GraphRAG-powered copilot.
-`FastAPI` `GraphRAG` `Knowledge Graphs` `LLMs`
-
-**SafeGuard AI** — [repo](#)
-Hackspectra finalist. Real-time multimodal content-moderation pipeline detecting harmful content and grooming patterns via text and vision models.
-`Flutter` `FastAPI` `ToxicBERT` `Vision CNN`
-
-**Enterprise Employee Recognition System** — built at UAIL
-Automated digitization of handwritten employee recognition cards using Google Gemini AI for OCR/classification, Oracle APEX/Database, and automated monthly management reports.
-`Oracle APEX` `PL/SQL` `Google Gemini AI`
-
-<sub>More: **HandoffIQ** (Hack for Impact finalist, MIT College) · **AI Marksheet** (in production @ IICT MGM)</sub>
-
-<br/>
-
-### Stack
-
-Python · Pandas · Scikit-learn · TensorFlow/PyTorch · FastAPI · Flutter/Dart · Firebase · Supabase · Docker · Airflow · MLflow · AWS
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MaheshDakulge&show_icons=true&hide_border=true&theme=default" align="left"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDakulge&layout=compact&hide_border=true&theme=default"/>
+</td>
